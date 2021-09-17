@@ -25,3 +25,20 @@ h1 {
 .postcard-body {
 	display: flex;
 }
+.body-left {
+	border: 1px;
+}
+p {
+	font-variant: small-caps;
+	font-style: italic;
+	font-size: 15px;
+}
+.first {
+	margin-top: 0px;
+}
+.body-right {
+	border: 1px;
+}
+input {
+	border-bottom: solid gray;
+}
